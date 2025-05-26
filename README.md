@@ -1,10 +1,50 @@
-# simpleCalculator
-A simple daily use Calculator using
+✨ Colorful Gradient Calculator ✨
 
-1.html
+A sleek, user-friendly calculator made with HTML, CSS, and JavaScript. Features a beautiful gradient background and vibrant buttons for a colorful experience!
 
-2.css
 
-3.Javascript
 
-live link is here : https://parmeet-k.github.io/simpleCalculator/
+🎯 Features
+
+•🌈 Gradient background for modern aesthetics
+
+•🎨 Colorful and responsive buttons
+
+•➕➖✖️➗ Basic arithmetic operations
+
+•⌨️ Optional keyboard support
+
+•📱 Fully responsive design
+
+
+
+
+🛠️ Built With
+
+ HTML5 – Markup structure
+
+ CSS3 – Styling with gradients & layout
+
+ JavaScript – Functional logic and interactivity
+
+
+🔗 Live Preview
+
+👉 https://parmeet-k.github.io/simpleCalculator/
+
+
+📁 Project Structure
+
+colorful-calculator/
+
+├── index.html       📄 HTML layout
+
+├── style.css        🎨 Gradient & button styles
+
+├── script.js        🧠 Calculator logic
+
+
+
+⚖️ License
+
+This project is licensed under the MIT License. 
